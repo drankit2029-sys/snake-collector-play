@@ -1,0 +1,18 @@
+Sound effects — Kenney (https://kenney.nl), CC0 1.0 (public domain).
+No attribution is required, but credit is given here.
+
+Files:
+- eat.wav        — Interface Sounds / confirmation_001
+- eat-fast.wav   — Interface Sounds / confirmation_003
+- bonus.wav      — Digital Audio / pepSound2
+- powerup.wav    — Digital Audio / powerUp2
+- bounce.wav     — Impact Sounds / impactGeneric_light_001
+- death.wav      — Sci-Fi Sounds / explosionCrunch_000
+- win.wav        — Music Jingles / jingles_PIZZI00
+- click.wav      — UI Audio / click1
+- pause.wav      — UI Audio / switch12
+- resume.wav     — UI Audio / switch13
+
+All files were converted to 16-bit PCM WAV for broad browser support.
+Files retrieved via the Open Game SFX Index (CC0):
+https://github.com/Mcamento8/open-game-sfx-index

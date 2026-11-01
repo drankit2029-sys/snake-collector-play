@@ -1,0 +1,11 @@
+Power-up icons from the open-source Game Icons pack (game-icons.net).
+
+License: Creative Commons Attribution 3.0 (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+https://game-icons.net
+
+Icons used:
+- phase.svg  — ghost, by Lorc
+- slow.svg   — hourglass, by Lorc
+- magnet.svg — magnet, by Lorc
+- double.svg — star-medal, by Delapouite

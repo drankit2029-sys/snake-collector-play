@@ -1,0 +1,3 @@
+Chakra Petch font by Cadson Demak.
+License: SIL Open Font License 1.1
+https://github.com/google/fonts/tree/main/ofl/chakrapetch
